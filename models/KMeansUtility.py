@@ -4,8 +4,6 @@
 #     HW 1: Probably Interesting Data
 #     File: KMeansUtility.py
 #     Implementation of KMeans Algorithms
-# 
-
 
 from scipy.spatial import distance
 from copy import deepcopy
