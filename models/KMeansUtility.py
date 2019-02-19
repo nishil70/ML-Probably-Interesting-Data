@@ -2,7 +2,7 @@
 # 
 #     EECS 738
 #     HW 1: Probably Interesting Data
-#     File: KMeans.py
+#     File: KMeansUtility.py
 #     Implementation of KMeans Algorithms
 # 
 
