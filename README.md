@@ -22,3 +22,10 @@ K-Means Clustering
 ## Project Files
 - [K-Means Demonstration Notebook](models/Probably-Interesting-Data.ipynb)
 - [K-Means Algorithm](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/KMeansUtility.py)
+
+## References
+http://stanford.edu/~cpiech/cs221/handouts/kmeans.html
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+https://github.com/scikit-learn/scikit-learn/blob/7389dba/sklearn/cluster/k_means_.py#L771
+https://mubaris.com/posts/kmeans-clustering/
+https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
