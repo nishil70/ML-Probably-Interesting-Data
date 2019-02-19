@@ -21,4 +21,4 @@ K-Means Clustering
 
 ## Project Files
 - [K-Means Demonstration Notebook](models/Probably-Interesting-Data.ipynb)
-- [K-Means Algorithm](models/KMeansUtilitiy.py)
+- [K-Means Algorithm](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/KMeansUtility.py)
