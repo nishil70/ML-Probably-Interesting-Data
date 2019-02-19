@@ -14,11 +14,11 @@
 Nishil Parmar
 
 ## Datasets
-[Indian Liver Patient Dataset] (https://www.kaggle.com/uciml/indian-liver-patient-records)
+[Indian Liver Patient Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
 ## Implemented Algorithms
 K-Means Clustering
 
 ## Project Files
-- [K-Means Demonstration Notebook](model/Probably-Interesting-Data.ipynb)
-- [K-Means Algorithm](model/KMeansUtiltiy.py)
+- [K-Means Demonstration Notebook](models/Probably-Interesting-Data.ipynb)
+- [K-Means Algorithm](models/KMeansUtiltiy.py)
