@@ -18,7 +18,7 @@
 - [Indian Liver Patient Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
 ## Implemented Algorithms
-- K-Means Clustering
+- K-Means Clustering Algorithm
 
 ## Project Files
 - [K-Means Clustering on PM2.5 Beijing Pollution Dataset](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/Beijing-Pollution-Data.ipynb)
