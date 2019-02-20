@@ -14,13 +14,15 @@
 - Nishil Parmar
 
 ## Datasets
+- [PM2.5 Beijing Pollution Dataset](https://www.kaggle.com/uciml/pm25-data-for-five-chinese-cities)
 - [Indian Liver Patient Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
 ## Implemented Algorithms
 - K-Means Clustering
 
 ## Project Files
-- [K-Means Demonstration Notebook](models/Probably-Interesting-Data.ipynb)
+- [K-Means Clustering on PM2.5 Beijing Pollution Dataset](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/Beijing-Pollution-Data.ipynb)
+- [K-Means Clustering on Indian Liver Patient Dataset](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/Indian-Liver-Patients.ipynb)
 - [K-Means Algorithm](https://github.com/nishil70/ML-Probably-Interesting-Data/blob/master/models/KMeansUtility.py)
 
 ## References
